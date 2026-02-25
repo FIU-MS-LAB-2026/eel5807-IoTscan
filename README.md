@@ -13,7 +13,7 @@ Submission: 2/23/2026
 
 ## Final Project Scope
   - We decided to apply the knowledge we learned from this couse to the Internet of Things ecosystem. 
-  - We wanted to discover the security state of a Raspeberry Pi 5 running on an Arm Cortex-A processor out-of the-box.
+  - We wanted to discover the security state of a Raspeberry Pi 5 running on an Arm Cortex-A processor out-of-box.
   - To accomplish this we elected to use Tenable Nessus 10.11.2 and the OWASP Embedded Analyzer (EMBA) v2.0.0 to perform vulnerability scanning & a firmware security assessment.
 
 ---
@@ -45,4 +45,4 @@ The HTML reports store sensitive details about the devices involved in this proj
 
 ## Acknowledgements
 
-We'd like to thank Florida International university, Arm, Raspberry Pi, OWASP, Tenable, EMBA, and all the contributors to these tools for developing these resources. 
+We'd like to thank Florida International university for this course and extend gratitude to Arm, Raspberry Pi, OWASP, Tenable, EMBA, and all the contributors to these tools for developing these resources. 

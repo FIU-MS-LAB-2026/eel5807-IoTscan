@@ -13,7 +13,7 @@ Submission: 2/23/2026
 
 ## Final Project Scope
   - We decided to apply the knowledge we learned from this couse to the Internet of Things ecosystem. 
-  - We wanted to discover the security state of a Raspeberry Pi 5 running on an Arm Cortex-A processor out-of-box.
+  - We wanted to discover the security state of a Raspberry Pi 5 running on an Arm Cortex-A processor out-of-box.
   - To accomplish this we elected to use Tenable Nessus 10.11.2 and the OWASP Embedded Analyzer (EMBA) v2.0.0 to perform vulnerability scanning & a firmware security assessment.
 
 ---
@@ -21,7 +21,7 @@ Submission: 2/23/2026
 ## Our Deliverables 
   - Perform a successful vulnerability assessment using a Tenable Nessus network scan on a live Raspberry Pi 5.
   - Perform a completed run of the Open Worldwide Application Security Project (OWASP) Firmware Security Testing Methodology (FSTM).
-  - Perform a successful firmware extraction on the Raspberry Pi5 & firmware security full scan using the Embedded Analyzer (EMBA).
+  - Perform a successful firmware extraction on the Raspberry Pi 5 & firmware security full scan using the Embedded Analyzer (EMBA).
   - Generate real vulnerability scan results using the Tenable Nessus vunerability scanner report generator & EMBA firmware analysis automated HTML reports.
 
 ---

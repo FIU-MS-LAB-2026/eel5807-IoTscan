@@ -1,5 +1,5 @@
-## EEL5807 Advanced Ethical Hacking - Final Project
-**Scanning & hardening authentication CVEs on ARM-Based IoT devices**
+# EEL5807 Advanced Ethical Hacking - Final Project
+## **Scanning & hardening authentication CVEs on ARM-Based IoT devices**
 
 Authors: Adrian Ampuero, Lindsey Blais, Jessica Perez Ferrer
 
